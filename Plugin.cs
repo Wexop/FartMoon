@@ -1,7 +1,6 @@
 ﻿using BepInEx;
 
-
-namespace MoreLethalScraps
+namespace FartMoon
 {
     [BepInPlugin(GUID, NAME, VERSION)]
     [BepInDependency("evaisa.lethallib", "0.15.1")]

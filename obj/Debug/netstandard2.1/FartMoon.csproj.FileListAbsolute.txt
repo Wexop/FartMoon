@@ -1,5 +1,4 @@
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\Assembly-CSharp.dll
-C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\LethalConfig.dll
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\Unity.Burst.dll
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\Unity.Netcode.Runtime.dll
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
@@ -35,7 +34,6 @@ C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\Unity.Services.Core.Internal.dll
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\Unity.Services.Core.dll
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
-C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\LethalConfig.pdb
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\obj\Debug\netstandard2.1\FartMoon.csprojAssemblyReference.cache
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\obj\Debug\netstandard2.1\PluginInfo.cs
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\obj\Debug\netstandard2.1\FartMoon.AssemblyInfoInputs.cache
@@ -47,3 +45,4 @@ C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\FartZone.pdb
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\obj\Debug\netstandard2.1\FartZone.dll
 C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\obj\Debug\netstandard2.1\FartZone.pdb
+C:\Users\Matthieu\Desktop\DEV\LethalCompanyMods\FartMoon\bin\Debug\netstandard2.1\LethalLevelLoader.dll
