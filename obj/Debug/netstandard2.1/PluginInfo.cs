@@ -4,6 +4,6 @@ namespace FartMoon
     {
         public const string PLUGIN_GUID = "FartZone";
         public const string PLUGIN_NAME = "FartZone";
-        public const string PLUGIN_VERSION = "1.0.2";
+        public const string PLUGIN_VERSION = "1.0.3";
     }
 }

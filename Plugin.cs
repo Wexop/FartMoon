@@ -9,7 +9,7 @@ namespace FartMoon
 
         const string GUID = "wexop.fartzone";
         const string NAME = "FartZone";
-        const string VERSION = "1.0.2";
+        const string VERSION = "1.0.3";
 
         public static Plugin instance;
 
